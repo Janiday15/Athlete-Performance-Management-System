@@ -1,4 +1,4 @@
-# Tiana’s Track Training App
+# Athlete Performance Management System
 
 ## Overview
 Tiana’s Track Training App is a console-based C++ application designed to help athletes track workouts, monitor performance, and visualize progress over time. The program allows users to log running events, store results, and receive motivational feedback based on performance trends.
