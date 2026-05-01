@@ -1,11 +1,11 @@
-# 🏃‍♂️ Tiana’s Track Training App
+# Tiana’s Track Training App
 
-## 📌 Overview
+## Overview
 Tiana’s Track Training App is a console-based C++ application designed to help athletes track workouts, monitor performance, and visualize progress over time. The program allows users to log running events, store results, and receive motivational feedback based on performance trends.
 
 ---
 
-## ⚙️ Features
+##  Features
 - Add and record workout events
 - Track and store running times
 - View performance history and statistics
@@ -16,7 +16,7 @@ Tiana’s Track Training App is a console-based C++ application designed to help
 
 ---
 
-## 🧠 Concepts Used
+##  Concepts Used
 - C++ programming fundamentals
 - Functions and modular programming
 - Vectors (data structures)
@@ -27,20 +27,20 @@ Tiana’s Track Training App is a console-based C++ application designed to help
 
 ---
 
-## 💻 Tech Stack
+##  Tech Stack
 - C++
 - Visual Studio Code
 
 ---
 
-## 📂 File Handling
+##  File Handling
 - `workouts.txt` is used to store and retrieve workout data
 - Data is automatically loaded when the program starts
 - Users can save progress manually through the menu
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 ### Compile:
 ```bash
